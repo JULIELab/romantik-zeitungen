@@ -1,5 +1,5 @@
 # romantik-zeitungen
-Code to create the date required by the Open ONI instance running on romantik-zeitungen.de.
+Code to create the data required by the Open ONI instance running on romantik-zeitungen.de.
 
 The processing takes places in several stages:
 
